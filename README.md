@@ -1,4 +1,4 @@
-#Multi-View Conveyor Homography Stitcher
+###Multi-View Conveyor Homography Stitcher
 
 **Dual-camera ChArUco homography pipeline for stitching two asynchronous conveyor-belt cameras into a single wide-angle view.**
 
