@@ -1,0 +1,168 @@
+
+======================================================================
+  LEFT  →  D:\xis\xis_donut_belt_homography_2026-05\left
+======================================================================
+  Calibration : D:\xis\xis_donut_belt_homography_2026-05\left_calibration_matrix.json
+  Reprojection error from calibration: 0.9837 px
+  28 image(s) found.
+
+  ✓  20260413_154101_0000.png  |  54 corners (1 bad)  |  max_dev  0.33mm  |  RMS 0.122mm  |  reproj 0.19px  |  tilt   2.0°  |  dist 1679mm  |  [OK]
+  –  20260413_154101_0034.png  |  NO BOARD
+  ✗  20260413_154200_0000.png  |  54 corners (2 bad)  |  max_dev  4.39mm  |  RMS 0.868mm  |  reproj 0.69px  |  tilt   1.7°  |  dist 1680mm  |  [BAD]  [OUTLIER_CORNERS]
+  ✓  20260413_154213_0000.png  |  54 corners (1 bad)  |  max_dev  0.45mm  |  RMS 0.162mm  |  reproj 0.25px  |  tilt   1.7°  |  dist 1685mm  |  [OK]
+  ✓  20260413_154229_0000.png  |  54 corners (0 bad)  |  max_dev  0.34mm  |  RMS 0.142mm  |  reproj 0.21px  |  tilt   2.3°  |  dist 1679mm  |  [OK]
+  ✓  20260413_154249_0000.png  |  54 corners (0 bad)  |  max_dev  0.41mm  |  RMS 0.164mm  |  reproj 0.22px  |  tilt   2.4°  |  dist 1671mm  |  [OK]
+  ✓  20260413_154249_0001.png  |  54 corners (0 bad)  |  max_dev  0.39mm  |  RMS 0.153mm  |  reproj 0.20px  |  tilt   2.5°  |  dist 1671mm  |  [OK]
+  ✓  20260413_154249_0002.png  |  54 corners (0 bad)  |  max_dev  0.40mm  |  RMS 0.158mm  |  reproj 0.21px  |  tilt   2.5°  |  dist 1671mm  |  [OK]
+  ⚠  20260413_154308_0000.png  |  54 corners (2 bad)  |  max_dev  3.00mm  |  RMS 0.486mm  |  reproj 0.33px  |  tilt   2.3°  |  dist 1661mm  |  [WARN]
+  ✓  20260413_154308_0001.png  |  54 corners (1 bad)  |  max_dev  0.28mm  |  RMS 0.114mm  |  reproj 0.18px  |  tilt   2.3°  |  dist 1661mm  |  [OK]
+  ✓  20260413_154308_0002.png  |  54 corners (1 bad)  |  max_dev  0.24mm  |  RMS 0.108mm  |  reproj 0.17px  |  tilt   2.3°  |  dist 1661mm  |  [OK]
+  ⚠  20260413_154321_0000.png  |  54 corners (2 bad)  |  max_dev  3.37mm  |  RMS 0.467mm  |  reproj 0.40px  |  tilt   2.0°  |  dist 1665mm  |  [WARN]
+  ✓  20260413_154321_0001.png  |  54 corners (0 bad)  |  max_dev  0.32mm  |  RMS 0.137mm  |  reproj 0.20px  |  tilt   1.8°  |  dist 1664mm  |  [OK]
+  ✓  20260413_154321_0002.png  |  54 corners (0 bad)  |  max_dev  0.32mm  |  RMS 0.135mm  |  reproj 0.20px  |  tilt   1.8°  |  dist 1664mm  |  [OK]
+  ✓  20260413_154339_0000.png  |  54 corners (0 bad)  |  max_dev  0.31mm  |  RMS 0.136mm  |  reproj 0.18px  |  tilt   2.1°  |  dist 1670mm  |  [OK]
+  ✓  20260413_154339_0001.png  |  54 corners (0 bad)  |  max_dev  0.26mm  |  RMS 0.127mm  |  reproj 0.17px  |  tilt   2.1°  |  dist 1670mm  |  [OK]
+  ✓  20260413_154339_0002.png  |  54 corners (0 bad)  |  max_dev  0.31mm  |  RMS 0.133mm  |  reproj 0.18px  |  tilt   2.1°  |  dist 1670mm  |  [OK]
+  ✓  20260413_154359_0000.png  |  11 corners (1 bad)  |  max_dev  0.36mm  |  RMS 0.128mm  |  reproj 0.15px  |  tilt   2.3°  |  dist 1664mm  |  [OK]
+  ✓  20260413_154359_0001.png  |  11 corners (0 bad)  |  max_dev  0.25mm  |  RMS 0.118mm  |  reproj 0.15px  |  tilt   2.2°  |  dist 1664mm  |  [OK]
+  ✓  20260413_154420_0003.png  |  12 corners (0 bad)  |  max_dev  0.24mm  |  RMS 0.119mm  |  reproj 0.17px  |  tilt   2.2°  |  dist 1656mm  |  [OK]
+  ✓  20260413_154437_0000.png  |   7 corners (0 bad)  |  max_dev  0.50mm  |  RMS 0.226mm  |  reproj 0.34px  |  tilt  33.3°  |  dist 1507mm  |  [OK]
+  –  20260413_154502_0002.png  |  NO BOARD
+  –  20260413_154520_0002.png  |  NO BOARD
+  –  20260413_154543_0000.png  |  NO BOARD
+  ✓  20260413_154610_0000.png  |  12 corners (0 bad)  |  max_dev  0.32mm  |  RMS 0.157mm  |  reproj 0.19px  |  tilt   1.8°  |  dist 1660mm  |  [OK]
+  ✓  20260413_154630_0001.png  |  54 corners (2 bad)  |  max_dev  0.38mm  |  RMS 0.144mm  |  reproj 0.19px  |  tilt   2.3°  |  dist 1674mm  |  [OK]
+  ✓  20260413_154647_0002.png  |  50 corners (0 bad)  |  max_dev  0.33mm  |  RMS 0.154mm  |  reproj 0.21px  |  tilt   2.2°  |  dist 1673mm  |  [OK]
+  ✓  20260413_154702_0000.png  |  54 corners (0 bad)  |  max_dev  0.26mm  |  RMS 0.104mm  |  reproj 0.17px  |  tilt   2.3°  |  dist 1677mm  |  [OK]
+
+──────────────────────────────────────────────────────────────────────
+  DIAGNOSIS SUMMARY — LEFT
+──────────────────────────────────────────────────────────────────────
+  Total frames      : 28
+  No board          : 4
+  OK  (< 2.0mm)   : 21
+  WARN(2.0–4.0mm)  : 2
+  BAD (>= 4.0mm)  : 1
+
+  Board tilt from camera axis:
+    Mean  : 3.4°
+    Range : 1.7° – 33.3°
+
+  Board distance from camera:
+    Mean  : 1662mm  (1.66m)
+    Range : 1507mm – 1685mm
+
+  Mean reprojection error (per frame):
+    Mean  : 0.232px
+    Range : 0.152px – 0.688px
+    NOTE  : > 1.0px suggests calibration quality issue.
+
+  RMS mm error after 3D correction:
+    Mean  : 0.198mm
+    Best  : 0.104mm
+    Worst : 0.868mm
+
+  BAD FRAMES and likely cause:
+    20260413_154200_0000.png  tilt=1.7°  bad_corners=2  cause=OUTLIER_CORNERS
+──────────────────────────────────────────────────────────────────────
+
+======================================================================
+  RIGHT  →  D:\xis\xis_donut_belt_homography_2026-05\right
+======================================================================
+  Calibration : D:\xis\xis_donut_belt_homography_2026-05\right_calibration_matrix.json
+  Reprojection error from calibration: 0.6993 px
+  28 image(s) found.
+
+  –  20260413_154101_0000.png  |  NO BOARD
+  –  20260413_154101_0034.png  |  NO BOARD
+  –  20260413_154200_0000.png  |  NO BOARD
+  –  20260413_154213_0000.png  |  NO BOARD
+  ✓  20260413_154229_0000.png  |   8 corners (0 bad)  |  max_dev  0.13mm  |  RMS 0.062mm  |  reproj 0.13px  |  tilt   4.1°  |  dist 992mm  |  [OK]
+  ✓  20260413_154249_0000.png  |   8 corners (0 bad)  |  max_dev  0.29mm  |  RMS 0.122mm  |  reproj 0.14px  |  tilt   4.0°  |  dist 975mm  |  [OK]
+  ✓  20260413_154249_0001.png  |   8 corners (0 bad)  |  max_dev  0.19mm  |  RMS 0.121mm  |  reproj 0.13px  |  tilt   3.9°  |  dist 975mm  |  [OK]
+  ✓  20260413_154249_0002.png  |   8 corners (0 bad)  |  max_dev  0.18mm  |  RMS 0.103mm  |  reproj 0.11px  |  tilt   3.7°  |  dist 975mm  |  [OK]
+  ✓  20260413_154308_0000.png  |  53 corners (1 bad)  |  max_dev  0.33mm  |  RMS 0.111mm  |  reproj 0.17px  |  tilt   3.7°  |  dist 983mm  |  [OK]
+  ✓  20260413_154308_0001.png  |  54 corners (1 bad)  |  max_dev  0.27mm  |  RMS 0.083mm  |  reproj 0.12px  |  tilt   3.7°  |  dist 983mm  |  [OK]
+  ✓  20260413_154308_0002.png  |  53 corners (0 bad)  |  max_dev  0.26mm  |  RMS 0.087mm  |  reproj 0.12px  |  tilt   3.7°  |  dist 983mm  |  [OK]
+  ✓  20260413_154321_0000.png  |  54 corners (0 bad)  |  max_dev  0.32mm  |  RMS 0.082mm  |  reproj 0.13px  |  tilt   3.5°  |  dist 990mm  |  [OK]
+  ✓  20260413_154321_0001.png  |  54 corners (0 bad)  |  max_dev  0.22mm  |  RMS 0.072mm  |  reproj 0.11px  |  tilt   3.5°  |  dist 990mm  |  [OK]
+  ⚠  20260413_154321_0002.png  |  54 corners (1 bad)  |  max_dev  2.99mm  |  RMS 0.534mm  |  reproj 0.30px  |  tilt   3.5°  |  dist 990mm  |  [WARN]
+  ✓  20260413_154339_0000.png  |  51 corners (1 bad)  |  max_dev  0.48mm  |  RMS 0.111mm  |  reproj 0.15px  |  tilt   3.8°  |  dist 1001mm  |  [OK]
+  ✓  20260413_154339_0001.png  |  51 corners (0 bad)  |  max_dev  0.17mm  |  RMS 0.058mm  |  reproj 0.09px  |  tilt   3.8°  |  dist 1001mm  |  [OK]
+  ✓  20260413_154339_0002.png  |  53 corners (0 bad)  |  max_dev  0.17mm  |  RMS 0.058mm  |  reproj 0.08px  |  tilt   3.8°  |  dist 1001mm  |  [OK]
+  ✓  20260413_154359_0000.png  |  54 corners (0 bad)  |  max_dev  0.29mm  |  RMS 0.092mm  |  reproj 0.14px  |  tilt   3.9°  |  dist 1010mm  |  [OK]
+  ✓  20260413_154359_0001.png  |  54 corners (0 bad)  |  max_dev  0.16mm  |  RMS 0.071mm  |  reproj 0.10px  |  tilt   3.9°  |  dist 1010mm  |  [OK]
+  ✓  20260413_154420_0003.png  |  54 corners (1 bad)  |  max_dev  0.15mm  |  RMS 0.068mm  |  reproj 0.11px  |  tilt   3.7°  |  dist 997mm  |  [OK]
+  ✓  20260413_154437_0000.png  |  54 corners (0 bad)  |  max_dev  0.26mm  |  RMS 0.101mm  |  reproj 0.15px  |  tilt   3.6°  |  dist 992mm  |  [OK]
+  ✓  20260413_154502_0002.png  |  54 corners (0 bad)  |  max_dev  0.27mm  |  RMS 0.105mm  |  reproj 0.15px  |  tilt   3.7°  |  dist 997mm  |  [OK]
+  ✓  20260413_154520_0002.png  |  54 corners (0 bad)  |  max_dev  0.32mm  |  RMS 0.108mm  |  reproj 0.14px  |  tilt   3.7°  |  dist 1006mm  |  [OK]
+  ✓  20260413_154543_0000.png  |  54 corners (1 bad)  |  max_dev  0.43mm  |  RMS 0.148mm  |  reproj 0.19px  |  tilt   3.7°  |  dist 1015mm  |  [OK]
+  ✓  20260413_154610_0000.png  |  54 corners (0 bad)  |  max_dev  0.33mm  |  RMS 0.099mm  |  reproj 0.15px  |  tilt   3.4°  |  dist 995mm  |  [OK]
+  –  20260413_154630_0001.png  |  NO BOARD
+  ✓  20260413_154647_0002.png  |  18 corners (0 bad)  |  max_dev  0.12mm  |  RMS 0.048mm  |  reproj 0.08px  |  tilt   3.6°  |  dist 987mm  |  [OK]
+  ✓  20260413_154702_0000.png  |  15 corners (1 bad)  |  max_dev  0.21mm  |  RMS 0.088mm  |  reproj 0.12px  |  tilt   3.7°  |  dist 993mm  |  [OK]
+
+──────────────────────────────────────────────────────────────────────
+  DIAGNOSIS SUMMARY — RIGHT
+──────────────────────────────────────────────────────────────────────
+  Total frames      : 28
+  No board          : 5
+  OK  (< 2.0mm)   : 22
+  WARN(2.0–4.0mm)  : 1
+  BAD (>= 4.0mm)  : 0
+
+  Board tilt from camera axis:
+    Mean  : 3.7°
+    Range : 3.4° – 4.1°
+
+  Board distance from camera:
+    Mean  : 993mm  (0.99m)
+    Range : 975mm – 1015mm
+
+  Mean reprojection error (per frame):
+    Mean  : 0.136px
+    Range : 0.082px – 0.305px
+    NOTE  : > 1.0px suggests calibration quality issue.
+
+  RMS mm error after 3D correction:
+    Mean  : 0.110mm
+    Best  : 0.048mm
+    Worst : 0.534mm
+──────────────────────────────────────────────────────────────────────
+
+======================================================================
+  STEREO SYNC CHECK
+======================================================================
+  –  20260413_154101_0000.png  |  LEFT=OK  RIGHT=NO_BOARD  → SYNC MISS
+  –  20260413_154101_0034.png  |  LEFT=NO_BOARD  RIGHT=NO_BOARD  → SYNC MISS
+  –  20260413_154200_0000.png  |  LEFT=BAD  RIGHT=NO_BOARD  → SYNC MISS
+  –  20260413_154213_0000.png  |  LEFT=OK  RIGHT=NO_BOARD  → SYNC MISS
+  ✓  20260413_154229_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154249_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154249_0001.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154249_0002.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154308_0000.png  |  LEFT=WARN  RIGHT=OK  → USABLE
+  ✓  20260413_154308_0001.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154308_0002.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154321_0000.png  |  LEFT=WARN  RIGHT=OK  → USABLE
+  ✓  20260413_154321_0001.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154321_0002.png  |  LEFT=OK  RIGHT=WARN  → USABLE
+  ✓  20260413_154339_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154339_0001.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154339_0002.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154359_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154359_0001.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154420_0003.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154437_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  –  20260413_154502_0002.png  |  LEFT=NO_BOARD  RIGHT=OK  → SYNC MISS
+  –  20260413_154520_0002.png  |  LEFT=NO_BOARD  RIGHT=OK  → SYNC MISS
+  –  20260413_154543_0000.png  |  LEFT=NO_BOARD  RIGHT=OK  → SYNC MISS
+  ✓  20260413_154610_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  –  20260413_154630_0001.png  |  LEFT=OK  RIGHT=NO_BOARD  → SYNC MISS
+  ✓  20260413_154647_0002.png  |  LEFT=OK  RIGHT=OK  → USABLE
+  ✓  20260413_154702_0000.png  |  LEFT=OK  RIGHT=OK  → USABLE
+
+  Usable pairs   : 20
+  Sync misses    : 8
+  Bad both sides : 0
+
