@@ -1,4 +1,4 @@
-# Belt Homography
+#Multi-View Conveyor Homography Stitcher
 
 **Dual-camera ChArUco homography pipeline for stitching two asynchronous conveyor-belt cameras into a single wide-angle view.**
 
@@ -8,7 +8,7 @@
 
 A production line is watched by two cameras — `left` and `right` — mounted side by side over the same conveyor belt, each covering part of the belt's width. The cameras are **not hardware-synchronized** and sit at different distances and angles from the belt, so their video feeds can't simply be placed edge to edge.
 
-Belt homography solves this by:
+Multi-View Conveyor Homography Stitcher solves this by:
 
 1. Detecting **ChArUco board corners** (a checkerboard + ArUco marker hybrid, where every inner corner has a unique, trackable ID) in synchronized calibration image pairs from both cameras.
 2. Matching corners that are visible in *both* cameras by ID, and computing a **3×3 perspective homography matrix `H`** with `cv2.findHomography` + RANSAC, mapping any pixel in the right camera to its corresponding location in the left camera's coordinate system.
@@ -53,7 +53,7 @@ A homography — rather than full stereo rectification — is used deliberately:
 ## Folder structure
 
 ```
-donut_belt_homography/
+Multi-View Conveyor Homography Stitcher/
 ├── calib_data/                  # auto-generated, do not edit
 │   ├── H_right_to_left.npy      # the computed 3×3 homography matrix
 │   ├── matched_corners.*        # per-pair matched ChArUco corner coordinates
